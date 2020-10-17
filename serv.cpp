@@ -1,16 +1,3 @@
-/* This is the server side code to host a tic-tac-toe game between two players.
- * Source Code written by Indradhanush Gupta.
- * Website  :
- * Github  
- * Facebook :
- * Twitter
- * Quora    :
- * E-mail   : indradhanush.gupta@gmail.com
- *
- * To report any bugs please send me an e-mail.
- * Tips are welcome. 
- *
- */
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
